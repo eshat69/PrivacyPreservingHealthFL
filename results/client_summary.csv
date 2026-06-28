@@ -1,0 +1,5 @@
+Client,Rows,Disease %
+hospital_a.csv,303,45.87
+hospital_b.csv,294,36.05
+hospital_c.csv,123,93.5
+hospital_d.csv,200,74.5
