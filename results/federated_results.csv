@@ -1,0 +1,2 @@
+model,rounds,local_epochs,accuracy,precision,recall,f1,roc_auc
+Flower FedAvg HeartDiseaseNet,10,5,0.8432432432432433,0.8230088495575221,0.9117647058823529,0.8651162790697674,0.9013701866288685
