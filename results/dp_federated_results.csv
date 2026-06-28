@@ -1,0 +1,2 @@
+model,rounds,local_epochs,noise_multiplier,max_grad_norm,delta,epsilon,accuracy,precision,recall,f1,roc_auc
+DP Flower FedAvg HeartDiseaseNet,10,5,1.0,1.0,1e-05,21.32253210686986,0.8216216216216217,0.8415841584158416,0.8333333333333334,0.8374384236453202,0.8851878100637846
