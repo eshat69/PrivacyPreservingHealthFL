@@ -1,3 +1,9 @@
+![GitHub stars](https://img.shields.io/github/stars/eshat69/PrivacyPreservingHealthFL?style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/eshat69/PrivacyPreservingHealthFL)
+![GitHub repo size](https://img.shields.io/github/repo-size/eshat69/PrivacyPreservingHealthFL)
+![GitHub language](https://img.shields.io/github/languages/top/eshat69/PrivacyPreservingHealthFL)
+![Issues](https://img.shields.io/github/issues/eshat69/PrivacyPreservingHealthFL?style=flat-square)
+
 # PrivacyPreservingHealthFL
 
 > **Interpretable Privacy-Preserving Federated Learning for Healthcare Analytics**
