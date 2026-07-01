@@ -1,8 +1,8 @@
-[![View Repository](https://img.shields.io/badge/View-Repository-blue?style=for-the-badge&logo=github)](https://github.com/eshat69/PrivacyPreservingHealthFL)
-![GitHub stars](https://img.shields.io/github/stars/eshat69/PrivacyPreservingHealthFL?style=social)
-![GitHub last commit](https://img.shields.io/github/last-commit/eshat69/PrivacyPreservingHealthFL)
-![GitHub repo size](https://img.shields.io/github/repo-size/eshat69/PrivacyPreservingHealthFL)
-![GitHub language](https://img.shields.io/github/languages/top/eshat69/PrivacyPreservingHealthFL)
+[![View Repository](https://img.shields.io/badge/View-Repository-blue?style=flat-square&logo=github)](https://github.com/eshat69/PrivacyPreservingHealthFL)
+![GitHub Stars](https://img.shields.io/github/stars/eshat69/PrivacyPreservingHealthFL?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/eshat69/PrivacyPreservingHealthFL?style=flat-square)
+![Repo Size](https://img.shields.io/github/repo-size/eshat69/PrivacyPreservingHealthFL?style=flat-square)
+![Top Language](https://img.shields.io/github/languages/top/eshat69/PrivacyPreservingHealthFL?style=flat-square)
 ![Issues](https://img.shields.io/github/issues/eshat69/PrivacyPreservingHealthFL?style=flat-square)
 
 # PrivacyPreservingHealthFL
