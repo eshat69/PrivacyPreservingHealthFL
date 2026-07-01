@@ -1,3 +1,4 @@
+[![View Repository](https://img.shields.io/badge/View-Repository-blue?style=for-the-badge&logo=github)](https://github.com/eshat69/PrivacyPreservingHealthFL)
 ![GitHub stars](https://img.shields.io/github/stars/eshat69/PrivacyPreservingHealthFL?style=social)
 ![GitHub last commit](https://img.shields.io/github/last-commit/eshat69/PrivacyPreservingHealthFL)
 ![GitHub repo size](https://img.shields.io/github/repo-size/eshat69/PrivacyPreservingHealthFL)
@@ -258,8 +259,6 @@ Run the notebooks in the following order:
 **Eshat Rahman**
 
 B.Sc. in Computer Science and Engineering
-
-Machine Learning • Federated Learning • Computer Vision • Explainable AI
 
 ---
 
